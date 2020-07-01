@@ -1,0 +1,38 @@
+body{
+margin:0;
+}
+
+
+h1{
+font-size: 70px;
+color: orange;
+
+}
+
+h6{
+font-size: 40px;
+
+}
+
+img{
+size: 50px;
+float: left;
+
+}
+.half-width{
+width: 40%;
+float: left;
+margin-left:5%;
+padding-left:5%;
+
+}
+
+.half-width img{
+    width:100%;
+}
+
+.top-banner{   
+background-image: url("picture/bn.png");
+background-repeat: no-repeat;
+}
+
